@@ -2,7 +2,7 @@
 
 This is the first __Front End__ project of Trybe course, developed on the third day of this block!
 
-The focus was on training our new skills in __React__, like __JSX__, __components__, __classes__, __props__ e and __prop types validation__.
+The focus was to practice our new skills in __React__, like __JSX__, __components__, __classes__, __props__ e and __prop types validation__.
 
 `Requirements:`
 - 1 - Create a `<Header />` component
